@@ -1,0 +1,18 @@
+.jumbotron {
+    text-align: center;
+    background-color:rgb(48, 48, 146);
+    color: whitesmoke;
+}
+
+#trainContainer {
+    margin-bottom: 35px;
+}
+
+.btn {
+    background-color: rgb(48, 48, 146);
+    border-color: rgb(48, 48, 146);
+}
+
+.card-header {
+    background-color: slategray;
+}
